@@ -1,0 +1,38 @@
+
+.col-12{
+ border: 1px solid;
+ height: 110px;
+ background : #2ea3f2;
+ padding: 5px;
+}
+.col-10{
+ padding: 5px;
+ border: 3px solid white;
+ height: 90px;
+ background : #007200;
+}
+.col-6{
+ padding: 5px;
+ border: 3px solid white;
+ height: 70px;
+ background : #0000ff;
+}
+.col-5{
+ padding: 5px;
+ border: 3px solid white;
+ height: 50px;
+ background : #ff0000;
+}
+.col-4{
+ padding: 5px;
+ border: 3px solid white;
+ height: 30px;
+ background : #ffff00;
+}
+.kotak{
+ padding: 5px;
+ border: 3px solid white;
+ width: 10px;
+ height: 10px;
+ background : #800080;
+}
